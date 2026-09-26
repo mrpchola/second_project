@@ -24,3 +24,4 @@ Thumbs.db  # Windows
 
 # Задание урока
 tmp_data.txt
+.env
